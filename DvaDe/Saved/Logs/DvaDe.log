@@ -713,3 +713,63 @@ LogInit: Object subsystem initialized
 [2017.10.26-16.43.55:333][216]SourceControl: Source control is disabled
 [2017.10.26-16.45.02:097][ 17]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
 [2017.10.26-16.45.39:984][510]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall3)
+[2017.10.26-16.47.27:420][331]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge9)
+[2017.10.26-16.47.28:089][407]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Ledge4)
+[2017.10.26-16.47.29:040][516]Cmd: EDIT COPY
+[2017.10.26-16.47.29:312][541]Cmd: EDIT PASTE
+[2017.10.26-16.47.31:472][790]Cmd: TRANSACTION UNDO
+[2017.10.26-16.47.31:472][790]LogEditorTransaction: Undo Paste
+[2017.10.26-16.47.32:683][926]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Ledge8)
+[2017.10.26-16.47.33:422][ 10]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Ledge3)
+[2017.10.26-16.47.34:245][104]Cmd: EDIT COPY
+[2017.10.26-16.47.34:462][130]Cmd: EDIT PASTE
+[2017.10.26-16.47.48:220][771]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge12)
+[2017.10.26-16.47.49:129][875]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Ledge13)
+[2017.10.26-16.48.08:118][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge11)
+[2017.10.26-16.48.09:121][257]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Ledge10)
+[2017.10.26-16.48.12:438][649]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.26-16.48.12:443][649]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.10.26-16.48.12:443][649]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.26-16.48.12:443][649]PIE: New page: PIE session: SideScrollerExampleMap (Oct 27, 2017, 3:48:12 AM)
+[2017.10.26-16.48.12:443][649]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2017.10.26-16.48.12:460][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016416s)
+[2017.10.26-16.48.12:460][649]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2017.10.26-16.48.12:461][649]LogPlayLevel: PIE: World Init took: (0.000765s)
+[2017.10.26-16.48.12:461][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.017454s)
+[2017.10.26-16.48.12:478][649]LogInit: XAudio2 using 'Динамики (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.26-16.48.12:486][649]LogInit: FAudioDevice initialized.
+[2017.10.26-16.48.12:514][649]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.10.26-16.48.12:516][649]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2017.10.26-21.48.12
+[2017.10.26-16.48.12:516][649]LogWorld: Bringing up level for play took: 0.001345
+[2017.10.26-16.48.12:517][649]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.124
+[2017.10.26-16.48.12:517][649]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.10.26-16.48.33:762][195]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.10.26-16.48.33:796][195]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.10.26-16.48.38:747][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge12)
+[2017.10.26-16.48.39:258][841]Cmd: EDIT COPY
+[2017.10.26-16.48.39:512][871]Cmd: EDIT PASTE
+[2017.10.26-16.48.49:105][ 17]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.26-16.48.49:110][ 17]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.10.26-16.48.49:110][ 17]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.26-16.48.49:110][ 17]PIE: New page: PIE session: SideScrollerExampleMap (Oct 27, 2017, 3:48:49 AM)
+[2017.10.26-16.48.49:110][ 17]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2017.10.26-16.48.49:122][ 17]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012243s)
+[2017.10.26-16.48.49:123][ 17]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2017.10.26-16.48.49:123][ 17]LogPlayLevel: PIE: World Init took: (0.000947s)
+[2017.10.26-16.48.49:124][ 17]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.013564s)
+[2017.10.26-16.48.49:141][ 17]LogInit: XAudio2 using 'Динамики (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.26-16.48.49:149][ 17]LogInit: FAudioDevice initialized.
+[2017.10.26-16.48.49:176][ 17]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2017.10.26-16.48.49:178][ 17]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2017.10.26-21.48.49
+[2017.10.26-16.48.49:178][ 17]LogWorld: Bringing up level for play took: 0.001405
+[2017.10.26-16.48.49:179][ 17]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0.539
+[2017.10.26-16.48.49:179][ 17]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.10.26-16.48.58:834][173]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.10.26-16.48.58:864][173]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2017.10.26-16.49.11:321][627]LogSavePackage: Save=109.40ms
+[2017.10.26-16.49.11:321][627]LogSavePackage: Moving '../../../../../../Users/Remery/Documents/GitHub/UE4DaniloLeshko/DvaDe/Saved/SideScrollerExampleMap60A794B74DBF7524E43722ACB912253F.tmp' to '../../../../../../Users/Remery/Documents/GitHub/UE4DaniloLeshko/DvaDe/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2017.10.26-16.49.11:323][627]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Remery/Documents/GitHub/UE4DaniloLeshko/DvaDe/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap
+[2017.10.26-16.49.11:333][627]LogFileHelpers: Saving map 'SideScrollerExampleMap' took 0.168
+[2017.10.26-16.49.11:353][627]LogSavePackage: Save=15.67ms
+[2017.10.26-16.49.11:353][627]LogSavePackage: Moving '../../../../../../Users/Remery/Documents/GitHub/UE4DaniloLeshko/DvaDe/Saved/SideScrollerCharacter77EE955747D8792166C60B9C02DDB84D.tmp' to '../../../../../../Users/Remery/Documents/GitHub/UE4DaniloLeshko/DvaDe/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2017.10.26-16.49.11:354][627]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Remery/Documents/GitHub/UE4DaniloLeshko/DvaDe/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset
